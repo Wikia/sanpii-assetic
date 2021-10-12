@@ -2,7 +2,7 @@
 
 ---
 
-**This is a copy of [sanpi/assetic](https://github.com/sanpi/assetic) which was abandoned and deleted from Github by the original maintainer.**<br>
+**This is a copy of [sanpi/assetic](https://github.com/sanpii/assetic) which was abandoned and deleted from Github by the original maintainer.**<br>
 Currently no maintenance will be provided here.
 
 ---
